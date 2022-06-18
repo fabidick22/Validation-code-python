@@ -2,7 +2,7 @@ name: Validation-code-python
 
 on:
   push:
-    branches: [master]
+    branches: [master,dev,test]
     paths:
       - '*.py'
 

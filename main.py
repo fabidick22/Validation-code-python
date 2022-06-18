@@ -1,6 +1,6 @@
 # this project is a test of system of inventaries
 
-print("Hola mundo !")
+print("Hola mundo!")
 print("Inventario")
 articulo = input("Ingresa el producto a buscar en la lista de inventario: ")
 inventario = {"Huevos":30,"Leche":40,"Avena":50,"Chocolate":{"Chocolate blanco":10,"Chocolate negro":20,},"Braunis":50,"mani dulce":20,"atun":100,"sardinas":75,}
